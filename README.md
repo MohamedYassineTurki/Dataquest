@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightning&logoColor=white" />
 </p>
 
-<h1 align="center">🛡️ OLEA Smart Advisor</h1>
+<h1 align="center">🛡️ OLEA MATCH</h1>
 <h3 align="center">Intelligent Insurance Recommender System</h3>
 
 <p align="center">
