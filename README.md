@@ -13,6 +13,10 @@
   An AI-powered insurance recommendation engine that uses a trained <strong>LightGBM</strong> model to suggest the optimal coverage bundle based on a client's profile — complete with explainability insights (SHAP) and risk scoring.
 </p>
 
+> **🤖 Phase 1 — AI Model Repository:**  
+> The machine learning model powering this application was developed in Phase 1. Full training code, feature engineering, and model evaluation are available here:  
+> 👉 **[AI Model Repo (Phase 1)](https://github.com/EladabYoussef/dataquest)**
+
 <p align="center">
   <a href="YOUR_DEMO_VIDEO_LINK_HERE">🎬 Watch the Live Demo</a>
 </p>
