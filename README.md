@@ -22,7 +22,7 @@
 ## 📸 Demo
 
 <!-- Replace with your actual demo recording link or embed -->
-[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]((https://drive.google.com/file/d/1hOyTN6YMGpqbx5MPBIFu65KVwJgceL7U/view?t=22))
+[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1hOyTN6YMGpqbx5MPBIFu65KVwJgceL7U/view?t=22)
 
 > 
 
