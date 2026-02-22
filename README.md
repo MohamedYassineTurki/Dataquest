@@ -106,7 +106,7 @@ intelligent-insurance-demo/
 
 ---
 
-## 🚀 Deployment — It's Just 3 Commands
+## 🚀 Deployment (MLOPS) — It's Just 3 Commands
 
 ### On Any VPS (Ubuntu, Debian, etc.)
 
