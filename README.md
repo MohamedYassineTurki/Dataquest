@@ -22,9 +22,9 @@
 ## 📸 Demo
 
 <!-- Replace with your actual demo recording link or embed -->
-[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_DEMO_VIDEO_LINK_HERE)
+[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]((https://drive.google.com/file/d/1hOyTN6YMGpqbx5MPBIFu65KVwJgceL7U/view?t=22))
 
-> **👆 Replace `YOUR_DEMO_VIDEO_LINK_HERE` with your actual demo recording URL (YouTube, Google Drive, Loom, etc.)**
+> 
 
 ---
 
@@ -227,11 +227,7 @@ Accepts a client profile and returns an insurance recommendation.
 
 ---
 
-## 👥 Team
 
-| Name | Role |
-|------|------|
-| Yassine | Full-Stack & ML Engineer |
 
 ---
 
